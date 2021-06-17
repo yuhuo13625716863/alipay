@@ -20,8 +20,8 @@
   ],
   "autoload": {
     "psr-4": {
-      "Compay\\Compay\\": "src/",
-      "Compay\\Compay\\Tests\\": "tests/"
+      "Compay\\Alipay\\": "src/",
+      "Compay\\Alipay\\Tests\\": "tests/"
     },
     "files": [
       "src/Common/helpers.php"
