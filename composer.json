@@ -33,6 +33,4 @@
   "require-dev": {
     "omnipay/tests": "~2.0"
   }
-  }
-  }
 }
