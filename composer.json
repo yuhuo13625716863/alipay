@@ -20,17 +20,19 @@
   ],
   "autoload": {
     "psr-4": {
-      "Compay\\Alipay\\": "src/",
-      "Compay\\Alipay\\Tests\\": "tests/"
+      "Omnipay\\Alipay\\": "src/",
+      "Omnipay\\Alipay\\Tests\\": "tests/"
     },
     "files": [
       "src/Common/helpers.php"
     ]
   },
   "require": {
-    "yuhuo/compay": "~2.0"
+    "omnipay/common": "~2.0"
   },
   "require-dev": {
-    "compay/tests": "~2.0"
+    "omnipay/tests": "~2.0"
+  }
+  }
   }
 }
